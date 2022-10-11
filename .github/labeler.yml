@@ -1,0 +1,11 @@
+# Add 'test' label to any change to files within the tests dir
+test:
+  - tests/*
+
+# Add 'source' label to any change to src files within the source dir
+source:
+  - any: ["src/*"]
+
+# Add 'dependencies' label to any changes to the 'pyproject.toml' file
+dependencies:
+  - pyproject.toml
