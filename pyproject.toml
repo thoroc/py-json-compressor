@@ -9,7 +9,7 @@ python = "^3.9"
 loguru = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
-autopep8 = "^1.7.0"
+autopep8 = "^2.0.0"
 coverage = "^6.5.0"
 coverage-threshold = "^0.4.4"
 Faker = "^15.1.0"
