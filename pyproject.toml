@@ -10,7 +10,7 @@ loguru = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^2.0.0"
-coverage = "^7.0.0"
+coverage = "^7.1.0"
 coverage-threshold = "^0.4.4"
 Faker = "^16.6.0"
 flake8 = "^6.0.0"
