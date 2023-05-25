@@ -30,7 +30,7 @@ flake8-spellcheck = "^0.28.0"
 flake8-variables-names = "^0.0.5"
 pytest = "^7.3.0"
 pytest-clarity = "^1.0.1"
-pytest-cov = "^4.0.0"
+pytest-cov = "^4.1.0"
 pytest-sugar = "^0.9.5"
 pytest-mock = "^3.10.0"
 
